@@ -1,2 +1,3 @@
-# webA1
-Created with CodeSandbox
+# vanilla-template
+
+Weekly assignment 3.
